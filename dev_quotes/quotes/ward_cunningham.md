@@ -1,0 +1,1 @@
+Why have a locked wiki when you can instead just post static Web pages?
