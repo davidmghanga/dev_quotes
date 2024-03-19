@@ -15,4 +15,7 @@ All quotes are sourced from https://en.wikiquote.org
 - Linus Torvalds
 - Martin Fowler
 - Larry Wall
+- Kent Beck
+- Ward Cunningham
 - Alan Kay
+- Bjarne Stroustrup 
