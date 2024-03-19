@@ -1,1 +1,0 @@
-If things are not failing, you are not innovating enough
