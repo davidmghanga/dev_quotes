@@ -13,4 +13,4 @@ hardware platform when it might actually be cheaper to buy more hardware.
 
 [2012, Patterns of Enterprise Application Architecture]
 
-If you're a technical lead, you need to be coding.
+If you're a technical lead, you need to be coding
